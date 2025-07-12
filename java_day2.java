@@ -1,24 +1,3 @@
-// 🚀 Day 2 of Java Problem Solving Practice!
-
-// Today, I tackled three classic problems in Java as part of my daily coding habit:
-
-//  1. Fibonacci Series (n terms)
-// Printed the Fibonacci sequence up to a given number of terms using arrays and loops.
-
-//  2. Prime Number Check
-// Wrote a program to check whether a number is prime.
-
-//  3. Sum of Digits in a Number
-// Created a simple solution to find the sum of digits in a given number.
-
-// 📚 Each of these problems helps build a stronger understanding of control flow, loops, and mathematical logic in Java.
-
-// 👨‍💻 Looking forward to Day 3!
-// Let’s keep pushing the limits and getting better every day. 💪
-
-// #100DaysOfCode #JavaProgramming #ProblemSolving #LearningInPublic #CodingJourney #JavaDeveloper #LinkedInCoding
-
-
 // 1)Print Fibonacci series(n terms).
 
 // import java.util.Scanner;
