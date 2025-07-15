@@ -1,4 +1,4 @@
-// check if array is sorted or not
+// 1)check if array is sorted or not
 /*
 import java.util.Scanner;
 import java.util.Arrays;
@@ -66,7 +66,7 @@ class Main {
 }
  */
 
-// find duplicates in array;
+//3) find duplicates in array;
 
 import java.util.ArrayList;
 import java.util.Arrays;
