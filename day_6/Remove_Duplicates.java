@@ -1,4 +1,3 @@
-package day_6;
 // Remove Duplicates from string
 import java.util.ArrayList;
 import java.util.Scanner;
