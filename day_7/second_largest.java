@@ -1,3 +1,4 @@
+//find second largest number in array
 // package day_7;
 import java.util.Arrays;
 import java.util.Scanner;
